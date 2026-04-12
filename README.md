@@ -118,7 +118,7 @@ All observed values align closely with ICAR fertilizer recommendations and local
 
 ## Authors
 
-**Archit Kulkarni** (PRN: 1032221176) & **Samarth More** (PRN: 1032221224)  
+**Archit Kulkarni** & **Samarth More** 
 Department of Electrical and Electronics Engineering  
 Dr. Vishwanath Karad MIT World Peace University, Pune — 2024–25  
 *Under the guidance of Dr. Harshali Zodpe*
